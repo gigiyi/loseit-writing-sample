@@ -29,7 +29,7 @@ The script takes about one minute. All random steps use `set.seed(570)`, so resu
 
 ## Data
 
-The data were collected through the Reddit API by Professor Charles Kiene (University of Washington) for a graduate course project in spring 2026. They include the 20 posts with the most comments in r/loseit published between April 29 and May 26, 2026, and all of their top-level comments. Posts were sorted by number of comments rather than score so that each thread had enough replies to analyze.
+The data were collected through the Reddit API by Professor Charles Kiene (University of Washington) for a graduate course project in spring 2026. They include the 20 posts with the most comments in r/loseit published between April 29 and May 26, 2026, and all of their top-level comments. Posts were sorted by number of comments rather than by score to ensure that each thread had enough comments to analyze.
 
 The data contain no usernames. Comment text is included so the coding can be checked; please do not quote it in a way that could identify users.
 
